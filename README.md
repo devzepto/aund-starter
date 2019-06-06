@@ -17,10 +17,13 @@ This is the starter template for NestJS development with Angular Universal as fr
 
 ### Development (Server-side only)
 *`npm run build:ssr && npm run serve:ssr` [for the first time only]
-* `npm start:server`.
+* `npm start:server`
 
 ## Production SSR
 *`npm run build:ssr && npm run serve:ssr`
 
 ## One-command build Bash Script
 *`sh run.sh`
+
+# License
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE)
